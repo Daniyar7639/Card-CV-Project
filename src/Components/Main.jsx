@@ -28,7 +28,7 @@ const Main = () => {
           </p>
           <h3>Interests</h3>
           <p className="article-text">
-          Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+          Food expert. Music scholar. Reader. Internet fanatic. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
           </p>
         </div>
       <Footer />
